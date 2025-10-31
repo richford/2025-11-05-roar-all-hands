@@ -1,0 +1,16 @@
+{
+  "name": "all-hands-presentation",
+  "version": "1.0.0",
+  "description": "All-hands presentation on team development and process improvements",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.49.0",
+    "@slidev/theme-apple-basic": "^0.25.1",
+    "@slidev/theme-default": "latest",
+    "slidev-theme-geist": "^0.8.1"
+  }
+}
