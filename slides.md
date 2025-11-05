@@ -388,7 +388,7 @@ graph LR
 * Rationale
 
 **Output:**
-Problem brief approved by directors
+Problem brief (solution-free) approved by leadership
 
 ::right::
 
@@ -404,7 +404,7 @@ Problem brief approved by directors
 * Discussion notes
 
 **Output:**
-Requirements doc (user stories, acceptance criteria, metrics) approved by directors.
+Requirements doc (user stories, acceptance criteria, metrics) approved by leadership.
 
 <div class="text-xs text-gray-500 mt-8">
 <sup>*</sup>D-Team: We'll explain this structure in detail shortly.
@@ -595,9 +595,9 @@ It is responsible for translating validated user needs into product solutions.
 | Role | Source | Purpose |
 |------|--------|---------|
 | **UX & User Insight Lead** | Partnerships | Brings classroom/teacher/user needs & context |
-| **Product & Interaction Design Lead** | Dev Team | Translates needs into workflows, UI, and component usage |
-| **Engineering Feasibility Lead** | Dev Team | Ensures technical viability early |
-| **Content/Pedagogy Expertise** | Partnerships/Research | Ensures validity and learning design |
+| **Content/Pedagogy Expertise** | Research | Ensures validity and learning design |
+| **Product Design Lead** | (Capacity Placeholder) | Translates needs into workflows, UI, and component usage |
+| **Engineering Feasibility Lead** | Dev | Ensures technical viability early |
 
 </v-click>
 
